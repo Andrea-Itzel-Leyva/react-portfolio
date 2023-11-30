@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Por Tu Salud y Nutricion",
+    "imageSrc": "projects/project2.png",
+    "description": "Un proyecto que hice para la organizacion homónima en busca de un diseno mas moderno.",
+    "skills": ["HTML", "SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Claudia G. Siqueiros Studio",
+    "imageSrc": "projects/project1.png",
+    "description": "Una aplicacion web hecha para un salon de belleza para agendar citas.",
+    "skills": ["React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
